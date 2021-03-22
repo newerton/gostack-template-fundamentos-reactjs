@@ -6,7 +6,7 @@
     "axios": "^0.21.1",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
-    "polished": "^3.5.2",
+    "polished": "^4.1.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-dropzone": "^10.2.2",
