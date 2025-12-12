@@ -39,7 +39,7 @@
     "@testing-library/user-event": "^14.0.0",
     "@types/axios": "^0.14.0",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.0.0",
+    "@types/node": "^25.0.0",
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.1",
     "@types/react-router-dom": "^5.1.7",
